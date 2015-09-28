@@ -4,7 +4,7 @@ import android.Keys._
 android.Plugin.androidBuild
 
 // Specifying the Android target Sdk version
-platformTarget in Android := "android-23"
+platformTarget in Android := "android-21"
 
 // Application Name
 name := """scala-android"""
